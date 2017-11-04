@@ -58,7 +58,7 @@ sudo service postgresql start
 
 # set permissions so postgres can read csv files
 
-chmod 755 /home/cloudera/Downloads/TaskRabbit
+chmod 755 /home/cloudera/Downloads/Task-Rabbit-master
 
 
 
